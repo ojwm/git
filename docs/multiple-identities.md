@@ -33,7 +33,7 @@ git
     path = ~/.gitconfig.work-example.com
 ```
 
-1. Create a SSH key pair on the local machine for <github.com>.
+1. Create a SSH key pair on the local machine for <https://github.com>.
 
    ```sh
    $ ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519-github.com
@@ -53,9 +53,9 @@ git
    Identity added: /c/Users/USERNAME/.ssh/id_ed25519-github.com (USERNAME@HOSTNAME)
    ```
 
-1. Add the public key to the SSH keys on <github.com>.
+1. Add the public key to the SSH keys on <https://github.com>.
 
-1. Set up a `~/.gitconfig-github.com` to manage the <github.com> identity.
+1. Set up a `~/.gitconfig-github.com` to manage the <https://github.com> identity.
 
 ```ini
 [user]
