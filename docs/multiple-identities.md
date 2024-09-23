@@ -25,7 +25,7 @@ git
 1. Set up a default `~/.gitconfig` to manage the identities for the different directories.
 
 ```ini
-[includeIf "gitdir:~/git/github.com"]
+[includeIf "gitdir:~/git/github.com/"]
     path = ~/.gitconfig.github.com
 [includeIf "gitdir:~/git/personal-example.com/"]
     path = ~/.gitconfig.personal-example.com
