@@ -5,6 +5,7 @@ Useful Git commands and concepts.
 ## See also
 
 * [Multiple identities](./docs/multiple-identities.md).
+* [Private remotes](./docs/private-remotes.md).
 
 ## Branch
 
