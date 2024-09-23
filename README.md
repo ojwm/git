@@ -1,5 +1,11 @@
 # Git
 
+Useful Git commands and concepts.
+
+## See also
+
+* [Multiple identities](./docs/multiple-identities.md).
+
 ## Branch
 
 Rename branch.
