@@ -1,8 +1,8 @@
 # Multiple Identities
 
-How to manage multiple identities (and SSH keys), for git commits, on a local machine.
+How to manage multiple identities and SSH keys, for git commits, on a local machine.
 
-Credit [Russell Brown](https://medium.com/@brownian) for the original article [How to Handle Multiple Git Accounts](https://medium.com/expedia-group-tech/how-to-handle-multiple-git-accounts-385afe430d5a).
+Credit to [Russell Brown](https://medium.com/@brownian) for the original article [How to Handle Multiple Git Accounts](https://medium.com/expedia-group-tech/how-to-handle-multiple-git-accounts-385afe430d5a).
 
 In this setup, the following directory structure is used to manage different remotes in a user's `git` directory.
 
